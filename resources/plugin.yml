@@ -1,7 +1,0 @@
-name: ChokeStats
-main: ru.h4sv.chokestats.Main
-version: 3
-commands:
-  stats:
-    description: Get your stats!
-    usage: /stats <player> or /stats for yourself.
